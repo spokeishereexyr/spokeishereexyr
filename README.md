@@ -13,6 +13,7 @@
 <p align="center">
 <code style="color : green">  ˚ ✦ . ➜ 推しさんのおなまえ ﹒✩</code>
 
+<p align="center">
 <img width="438" height="73" alt="tumblr_2d068bfbc071a68baed4082858faa472_bd23bb46_500" src="https://github.com/user-attachments/assets/76a8a7f7-4675-4325-9dba-2734c1e2d618" />
 <img width="2048" height="19" alt="tumblr_675e772868f265b1355821eac90fd164_c284de95_2048" src="https://github.com/user-attachments/assets/859061ea-9e64-4ec7-8a97-0b137bc2351f" />
 
