@@ -27,7 +27,7 @@
 
 <p align="center">
 <code style="color : orange">ᴍᴜʟᴛɪꜰᴀɴᴅᴏᴍᴇʀ / ᴀʀᴛɪꜱᴛ /ᴇᴅɪᴛᴏʀ</code>
-
+<img width="2048" height="19" alt="tumblr_675e772868f265b1355821eac90fd164_c284de95_2048" src="https://github.com/user-attachments/assets/859061ea-9e64-4ec7-8a97-0b137bc2351f" />
 <img width="150" height="20" alt="tumblr_5a07ec435a17f865336f00168c96b3a3_e712107f_250" src="https://github.com/user-attachments/assets/44f8187a-2c55-4baf-9354-03daae6e29b1" />
 <img width="150" height="20" alt="tumblr_ecd4c8c2966adf3e8e57b6f60511d508_f4576f20_250" src="https://github.com/user-attachments/assets/ee140e88-089a-4d45-9409-133d9edf6f24" />
 <img width="150" height="20" alt="tumblr_a33223f964f867c396cc73fa5a3631a8_8a0ffcba_250" src="https://github.com/user-attachments/assets/03bf8700-d90b-4ac2-84f6-b05d284d3a45" />
