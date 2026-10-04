@@ -2,19 +2,12 @@
 <img width="853" height="480" alt="tumblr_a8bd944917d27b3b9494c059c856ed30_314b93a6_1280" src="https://github.com/user-attachments/assets/9610aaf6-d3ce-432f-9d72-ce2356e63a48" />
 
 <p align="center">
-
-  ૮( ˃ ꒳ ˂)ა
+૮( ˃ ꒳ ˂)ა
 ◟/づ🦴 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝑝𝑟𝑜𝑓𝑖𝑙𝑒 𝑠𝑖𝑡𝑒 ⭐️➰
-
   𝘯𝘢𝘮𝘦：
-
 ˚ ✦ . ➜ 推しさんのおなまえ ﹒✩
 
-𝘓𝘐𝘒𝘌：
-
-𝘏𝘈𝘛𝘌：
-
-𝘮𝘦𝘮𝘰：<p align="center">
+<p align="center">
 <img width="2000" height="2000" alt="tumblr_3de311328233ba737637eda65dd2993e_92b81f04_2048" src="https://github.com/user-attachments/assets/37c0c66f-342e-4a71-94a1-a70f4f2ec167" />
 
 <p align="center">
