@@ -1,5 +1,9 @@
 <p align="center">
 <img width="853" height="480" alt="tumblr_a8bd944917d27b3b9494c059c856ed30_314b93a6_1280" src="https://github.com/user-attachments/assets/9610aaf6-d3ce-432f-9d72-ce2356e63a48" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wh95bd2d2nzt9nw0o7ozlsule&cover_image=true&theme=natemoo-re&show_offline=false&background_color=8FFE09&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 <img width="2048" height="19" alt="tumblr_675e772868f265b1355821eac90fd164_c284de95_2048" src="https://github.com/user-attachments/assets/859061ea-9e64-4ec7-8a97-0b137bc2351f" />
 <p align="center">
 <code style="color : red">૮( ˃ ꒳ ˂)ა</code>
