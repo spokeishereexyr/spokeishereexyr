@@ -1,6 +1,6 @@
 <p align="center">
 <img width="853" height="480" alt="tumblr_a8bd944917d27b3b9494c059c856ed30_314b93a6_1280" src="https://github.com/user-attachments/assets/9610aaf6-d3ce-432f-9d72-ce2356e63a48" />
-
+<img width="2048" height="19" alt="tumblr_675e772868f265b1355821eac90fd164_c284de95_2048" src="https://github.com/user-attachments/assets/859061ea-9e64-4ec7-8a97-0b137bc2351f" />
 <p align="center">
 <code style="color : red">૮( ˃ ꒳ ˂)ა</code>
 
@@ -13,6 +13,7 @@
 <p align="center">
 <code style="color : green">  ˚ ✦ . ➜ 推しさんのおなまえ ﹒✩</code>
 
+<img width="2048" height="19" alt="tumblr_675e772868f265b1355821eac90fd164_c284de95_2048" src="https://github.com/user-attachments/assets/859061ea-9e64-4ec7-8a97-0b137bc2351f" />
 
 <img width="99" height="56" alt="tumblr_30fca2e1c6fdb6610039b78db4ebf062_433df16d_100" src="https://github.com/user-attachments/assets/cc0865cb-be73-46da-9573-a7d01e8fbb99" />
 <img width="99" height="56" alt="tumblr_a58e019f1e0bef2f4bebccdd23b7a865_1b0df138_100" src="https://github.com/user-attachments/assets/1b834ba6-37d7-4d9a-8910-aa98520ac85e" />
@@ -23,9 +24,6 @@
 
 <p align="center">
 <img width="720" height="720" alt="tumblr_4d67619ab2e56aa527c8b38ce226f817_fcd9996e_1280" src="https://github.com/user-attachments/assets/e7154fa2-20d7-4d3e-8f37-bd23cfce4c8e" />
-
-<img width="2048" height="19" alt="tumblr_675e772868f265b1355821eac90fd164_c284de95_2048" src="https://github.com/user-attachments/assets/859061ea-9e64-4ec7-8a97-0b137bc2351f" />
-
 <!--
 **spokeishereexyr/spokeishereexyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
