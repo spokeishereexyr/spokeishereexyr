@@ -23,6 +23,13 @@
 <img width="2000" height="2000" alt="tumblr_3de311328233ba737637eda65dd2993e_92b81f04_2048" src="https://github.com/user-attachments/assets/37c0c66f-342e-4a71-94a1-a70f4f2ec167" />
 
 <p align="center">
+<code style="color : red">ᵃᵘᵈʰᵈ , ¹⁷ʸʳˢ ᵒˡᵈ</code>
+
+<p align="center">
+<code style="color : orange">ᴍᴜʟᴛɪꜰᴀɴᴅᴏᴍᴇʀ / ᴀʀᴛɪꜱᴛ /ᴇᴅɪᴛᴏʀ</code>
+
+
+<p align="center">
 <img width="720" height="720" alt="tumblr_4d67619ab2e56aa527c8b38ce226f817_fcd9996e_1280" src="https://github.com/user-attachments/assets/e7154fa2-20d7-4d3e-8f37-bd23cfce4c8e" />
 <!--
 **spokeishereexyr/spokeishereexyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
