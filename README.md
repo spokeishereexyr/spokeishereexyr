@@ -4,9 +4,14 @@
 <p align="center">
 ૮( ˃ ꒳ ˂)ა
 
-  ◟/づ🦴 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝑝𝑟𝑜𝑓𝑖𝑙𝑒 𝑠𝑖𝑡𝑒 ⭐️➰
+<p align="center">
+◟/づ🦴 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝑝𝑟𝑜𝑓𝑖𝑙𝑒 𝑠𝑖𝑡𝑒 ⭐️➰
+  
+  <p align="center">
   𝘯𝘢𝘮𝘦：
-˚ ✦ . ➜ 推しさんのおなまえ ﹒✩
+
+<p align="center">
+  ˚ ✦ . ➜ 推しさんのおなまえ ﹒✩
 
 <p align="center">
 <img width="2000" height="2000" alt="tumblr_3de311328233ba737637eda65dd2993e_92b81f04_2048" src="https://github.com/user-attachments/assets/37c0c66f-342e-4a71-94a1-a70f4f2ec167" />
