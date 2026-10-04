@@ -14,6 +14,9 @@
 <p align="center">
 <img width="2048" height="1661" alt="tumblr_d6b164dd1ffa7fd55be3dcedc9dc971c_d02ec97a_2048" src="https://github.com/user-attachments/assets/884c88ac-17c4-407e-8c63-28cb12c74e2b" />
 
+<p align="center">
+<img width="2048" height="1661" alt="tumblr_daef6c6214781d7fb4150cc69250ce78_a5e60c0b_2048" src="https://github.com/user-attachments/assets/e0c57ec7-be80-45a3-a171-c6d022a19b04" />
+
 <!--
 **spokeishereexyr/spokeishereexyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
