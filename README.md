@@ -8,7 +8,7 @@
 <code style="color : orange">◟/づ🦴 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝑚𝑦 𝑝𝑟𝑜𝑓𝑖𝑙𝑒 𝑠𝑖𝑡𝑒 ⭐️➰</code>
   
   <p align="center">
-<code style="color : yellow">‧₊˚🌈✩ ₊˚🫧⊹♡ . spokeishere യ◟𖦹 ⁺</code>
+<code style="color : yellow">‧₊˚🌈✩ ₊˚🫧⊹♡ . ꜱᴘᴏᴋᴇɪꜱʜᴇʀᴇ യ◟𖦹 ⁺</code>
 
 <p align="center">
 <code style="color : green">  ˚ ✦ . ➜ 推しさんのおなまえ ﹒✩</code>
