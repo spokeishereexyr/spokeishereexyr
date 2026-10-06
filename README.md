@@ -4,7 +4,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wh95bd2d2nzt9nw0o7ozlsule&cover_image=true&theme=natemoo-re&show_offline=false&background_color=8FFE09&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
-<img width="613" height="629" alt="Crk_version_7 5_title_litmus_asset" src="https://github.com/user-attachments/assets/bbf5c51a-408b-40a6-a865-373af7a78aeb" />
+<img width="170" height="170" alt="Crk_version_7 5_title_litmus_asset" src="https://github.com/user-attachments/assets/bbf5c51a-408b-40a6-a865-373af7a78aeb" />
 
 <p align="center">
 <img width="150" height="150" alt="tumblr_3c6f1902f5cf0a6f207700dca17c1014_8186c526_1280" src="https://github.com/user-attachments/assets/67f08980-95bb-4ae7-aa02-c88b724a1394" />
